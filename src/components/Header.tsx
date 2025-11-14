@@ -3,7 +3,7 @@ import { Shield, Zap } from 'lucide-react';
 
 export default function Header() {
   return (
-    <header className="bg-gradient-to-r from-red-600 to-red-800 text-white shadow-lg">
+    <header className="bg-gradient-to-r from-green-600 to-green-800 text-white shadow-lg">
       <div className="container mx-auto px-4 py-6">
         <div className="flex items-center space-x-3">
           <div className="relative">
